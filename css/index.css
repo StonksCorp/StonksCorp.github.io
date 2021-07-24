@@ -42,3 +42,11 @@
   font-family: "Source Sans Pro", sans-serif;
   padding-top: 1em;
 }
+
+.main-text p {
+  text-align: center;
+  font-size: 30px;
+  color: #eeeeee;
+  padding-left: 100px;
+  padding-right: 100px;
+}
