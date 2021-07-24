@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #161c21;
+  font-family: "DM Sans", sans-serif;
+  padding: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #161c21;
+  box-shadow: 5px 5px 5px #202a31;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  padding: 7px 10px;
+  text-decoration: none;
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+  background-color: #0a0f11;
+  border-radius: 5px;
+}
+
+.topnav-right a {
+  float: right;
+}
+
+.head h1 {
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  font-family: "Source Sans Pro", sans-serif;
+  padding-top: 1em;
+}
