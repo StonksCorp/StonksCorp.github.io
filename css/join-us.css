@@ -51,3 +51,20 @@ h1 {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 900;
 }
+
+.dc p a {
+  color: #5865f2;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.dc p {
+  text-align: center;
+  padding-top: 40px;
+  color: #eeeeee;
+  font-size: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
